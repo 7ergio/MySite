@@ -1,2 +1,3 @@
 # MySite
-My CSS project
+
+This is a fork of Sergio's CSS project
